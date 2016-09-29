@@ -1,8 +1,8 @@
 /********************************************************************************/
-/* Create 'binary' file with long primes                                       */
+/* Create 'binary' file with long primes                                        */
 /*                                                                              */
 /* - create first table in memory with primes. Use this table as source of      */
-/*   dividers to determine prime                                               */
+/*   dividers to determine prime                                                */
 /********************************************************************************/
 #define _FILE_OFFSET_BITS 64
 
