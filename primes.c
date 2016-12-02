@@ -160,7 +160,7 @@ void findlastprimeinfile(FILE *f){
 unsigned long long fillprimetable(unsigned long long pt[])
 {
         clock_t starttime, endtime;
-
+#
         unsigned long long a,b,c,i;
         double ti;
         time_t sec;
